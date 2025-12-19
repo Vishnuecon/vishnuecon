@@ -9,7 +9,7 @@
 
 -  📚 I’m currently reading [**Debt: The First 5,000 Years by David Graeber**](https://books.google.co.in/books/about/Debt.html?id=GYhajCQU8XIC&redir_esc=y)
 
-- 💬 Feel free to talk about **Finance, Markets, Art and Interdisciplinary learning**
+- 💬 Feel free to talk about **Finance, Comic Art and Politics**
 
 - 📫 Reach out to me **25semf08@uohyd.ac.in**
 
