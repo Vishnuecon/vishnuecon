@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Remote Sensing Applications & Geospatial Analysis**
 
-- I’m currently reading [**Debt: The First 5,000 Years by David Graeber**]([https://books.google.co.in/books/about/Power_and_Progress.html?id=BV2HEAAAQBAJ&source=kp_book_description&redir_esc=y])(https://books.google.co.in/books/about/Debt.html?id=GYhajCQU8XIC&redir_esc=y)
+- I’m currently reading [**Debt: The First 5,000 Years by David Graeber**](https://books.google.co.in/books/about/Debt.html?id=GYhajCQU8XIC&redir_esc=y)
 
 - 💬 Feel free to talk about **Finance, Markets, Art and Interdisciplinary learning**
 
