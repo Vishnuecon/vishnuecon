@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently doing  **Winter Internship on Remote Sensing & GIS - AI powered Geospatial Analysis from the Dept of Space Education,          Govt of India.**
 
-- 🌱 I’m currently learning **Remote Sensing Applications & Geospatial Analysis**
+- 🌱 I’m currently learning **Remote Sensing Applications & Geospatial Analysis.**
 
--  📚 I’m currently reading [**Debt: The First 5,000 Years by David Graeber**](https://books.google.co.in/books/about/Debt.html?id=GYhajCQU8XIC&redir_esc=y)
+-  📚 I’m currently reading [**Debt: The First 5,000 Years by David Graeber.**](https://books.google.co.in/books/about/Debt.html?id=GYhajCQU8XIC&redir_esc=y)
 
-- 💬 Feel free to talk about **Finance, Comic Art and Politics**
+- 💬 Feel free to talk about **Finance, Comic Art and Politics.**
 
 - 📫 Reach out to me **25semf08@uohyd.ac.in**
 
