@@ -1,17 +1,10 @@
 ## Hello 👋, I'm VishnuDev
 
-<!--
-**Vishnuecon/vishnuecon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently studying a Master of Arts in Financial Economics at University of Hyderabad
+- 🌱 I’m currently reading
+- 💬 Feel free to talk about
 - 📫 Reach out to me: vishnudevecon@gmail.com
-- 😄 Pronouns: ...
+- 
 Connect me :
 www.linkedin.com/in/vishnudevtm
--->
+
