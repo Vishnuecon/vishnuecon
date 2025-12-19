@@ -11,7 +11,7 @@
 
 - 💬 Feel free to talk about **Finance, Markets, Art and contemporary International Politics**
 
-- 📫 Reach out to me ** 25semf08@uohyd.ac.in**
+- 📫 Reach out to me **25semf08@uohyd.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
