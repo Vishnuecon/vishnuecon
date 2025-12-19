@@ -1,10 +1,19 @@
-## Hello 👋, I'm VishnuDev
 
-- 🔭 I’m currently studying a Master of Arts in Financial Economics at University of Hyderabad
-- 🌱 I’m currently reading
-- 💬 Feel free to talk about
-- 📫 Reach out to me: vishnudevecon@gmail.com
-- 
-Connect me :
-www.linkedin.com/in/vishnudevtm
+<h1 align="center">Hello 👋, I'm VishnuDev </h1>
+<h3 align="center">I am a  graduate student currently pursuing a master's in  Financial Economics with research interests in monetary policy transmission, banking, and financial markets. I am building skills in empirical analysis, data handling, and academic research through coursework, projects, and internships. I'm looking for Summer Internships in Financial & Monetary Economics.
+</h3>
 
+- 🔭 I’m currently doing  **Winter Internship on Remote Sensing & GIS - AI powered Geospatial Analysis from the Dept of Space Education, Govt of India.**
+
+- 🌱 I’m currently learning **Geospatial Analysis, Scraping and Interactive Visualisation**
+
+- I’m currently reading [**Debt: The First 5,000 Years by David Graeber**]([https://books.google.co.in/books/about/Power_and_Progress.html?id=BV2HEAAAQBAJ&source=kp_book_description&redir_esc=y](https://books.google.co.in/books/about/Debt.html?id=GYhajCQU8XIC&redir_esc=y))
+
+- 💬 Feel free to talk about **Finance, Markets, Art and contemporary International Politics**
+
+- 📫 Reach out to me ** 25semf08@uohyd.ac.in**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/vishnudevtm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnudevtm" height="30" width="40" /></a>
+</p>
