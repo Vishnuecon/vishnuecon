@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello 👋, I'm VishnuDev </h1>
-<h3 align="center">I am a  graduate student currently pursuing a master's in  Financial Economics with research interests in monetary policy transmission, banking, and financial markets. I am building skills in empirical analysis, data handling, and academic research through coursework, projects, and internships. I'm looking for Summer Internships in Financial & Monetary Economics.
+<h3 align="center">I am currently pursuing a master's in  Financial Economics with research interests in monetary policy transmission, banking, and financial markets. I am building skills in empirical analysis, data handling, and academic research through coursework, projects, and internships. I'm looking for Summer Internships in Financial & Monetary Economics.
 </h3>
 
 - 🔭 I’m currently doing  **Winter Internship on Remote Sensing & GIS - AI powered Geospatial Analysis from the Dept of Space Education,          Govt of India.**
