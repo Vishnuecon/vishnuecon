@@ -1,9 +1,9 @@
 
 <h1 align="center">Hello 👋, I'm VishnuDev </h1>
-<h3 align="center">I am currently pursuing a master's in  Financial Economics with research interests in monetary policy transmission, banking, and financial markets. I am building skills in empirical analysis, data handling, and academic research through coursework, projects, and internships. I'm looking for Summer Internships in Financial & Monetary Economics.
+<h3 align="center">I am currently pursuing a master's in  Financial Economics with research interests in monetary policy transmission, banking, and financial markets. I am building skills in empirical analysis, data handling, and academic research through coursework, projects, and internships. I'm looking for Summer Internships in financial and monetary economics.
 </h3>
 
-- 🔭 I’m currently doing  **Winter Internship on Remote Sensing & GIS - AI powered Geospatial Analysis from the Dept of Space Education,          Govt of India.**
+- 🔭 I’m currently doing  **Winter Internship on Remote Sensing & GIS - AI powered Geospatial Analysis from the Dept of Space Education, Govt of India.**
 
 - 🌱 I’m currently learning **Remote Sensing Applications & Geospatial Analysis.**
 
@@ -11,7 +11,7 @@
 
 - 💬 Feel free to talk about **Finance, Comic Art and Politics.**
 
-- 📫 Reach out to me **25semf08@uohyd.ac.in**
+- 📫 Reach out to me **25semf08@uohyd.ac.in or vishnudevecon@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
