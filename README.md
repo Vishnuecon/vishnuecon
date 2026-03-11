@@ -3,9 +3,9 @@
 <h3 align="center">I am currently pursuing a master's in  Financial Economics with research interests in monetary policy transmission, banking, and financial markets. I am building skills in empirical analysis, data handling, and academic research through coursework, projects, and internships. I'm looking for Summer Internships in financial and monetary economics.
 </h3>
 
-- 🔭 I’m currently doing  **Winter Internship on Remote Sensing & GIS - AI powered Geospatial Analysis from the Dept of Space Education, Govt of India.**
+- 🔭 I have completed my  **Winter Internship on Remote Sensing & GIS - AI powered Geospatial Analysis from the Dept of Space Education, Govt of India.**
 
-- 🌱 I’m currently learning **Remote Sensing Applications & Geospatial Analysis.**
+- 🌱 I have done a project during Internship on Urban Expansion Analysis of Hyderabad Region using **Remote Sensing Applications & Geospatial Analysis.**
 
 -  📚 I’m currently reading [**Debt: The First 5,000 Years by David Graeber.**](https://books.google.co.in/books/about/Debt.html?id=GYhajCQU8XIC&redir_esc=y)
 
