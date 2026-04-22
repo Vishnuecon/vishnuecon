@@ -11,7 +11,7 @@
 
 - 💬 Feel free to talk about **Finance, Comic Art and Politics.**
 
-- 📫 Reach out to me **25semf08@uohyd.ac.in or vishnudevecon@gmail.com**
+- 📫 Reach out to me **vishnudev1311@gmail.com or vishnudevecon@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
